@@ -16,7 +16,7 @@
 
 -运行：list.bat 
 
--在 OnlyNames.txt 查看您拥有的模型
+-在 YSM_ZIP_7Z_List.txt 查看您拥有的模型
 
 过程中遇到的难点？
 

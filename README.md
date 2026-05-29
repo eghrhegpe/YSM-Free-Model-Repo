@@ -1,6 +1,6 @@
 # YSM免费模型模型汇总
 
-![模型名称](B站下【ysm免费分享】的视频汇总.jpeg)
+![简介](B站下【ysm免费分享】的视频汇总.jpeg)
 
 目标：收集中文社区的【免费模型】，并且按[作者名]【角色IP】角色(服饰)2026-5-29的方式命名。
 
@@ -22,7 +22,7 @@
 
 -在 YSM_ZIP_7Z_List.txt 查看您拥有的模型
 
-![模型名称]([Almeta_owx]【galgame】/space.bilibili.com.jpegB站下【ysm免费分享】的视频汇总.jpeg)
+![1]([Almeta_owx]【galgame】/space.bilibili.com.jpegB站下【ysm免费分享】的视频汇总.jpeg)
 
 
 过程中遇到的难点？

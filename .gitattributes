@@ -1,0 +1,7 @@
+# 强制批处理文件使用 Windows 格式
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 确保 UTF-8 编码
+*.bat text charset=utf-8
+*.cmd text charset=utf-8
